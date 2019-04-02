@@ -1,0 +1,14 @@
+{
+  "name": "pact-verifier-docker",
+  "version": "1.0.0",
+  "description": "Docker image to run pact provider verifications",
+  "scripts": {
+    "pact:verify": "./verify.sh"
+  },
+  "author": "Yousaf Nabi",
+  "dependencies": {
+    "@pact-foundation/pact": "^8.0.5",
+    "body-parser": "1.18.3",
+    "dotenv": "^6.2.0"
+  }
+}
