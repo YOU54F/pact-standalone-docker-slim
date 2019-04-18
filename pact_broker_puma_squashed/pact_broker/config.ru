@@ -3,7 +3,6 @@ require 'pact_broker'
 require_relative 'logger'
 require_relative 'basic_auth'
 require_relative 'database_connection'
-require_relative 'passenger_config'
 
 app = PactBroker::App.new do | config |
   config.logger = $logger
