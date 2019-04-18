@@ -8,6 +8,10 @@ Choice of
   - `docker pull you54f/pact-standalone` [![](https://images.microbadger.com/badges/image/you54f/pact-standalone.svg)](https://microbadger.com/images/you54f/pact-standalone "Get your own image badge on microbadger.com")
 - `debian:stretch-20181226` with Pact Standalone, NodeJS 8.15.0 & NVM
   - `docker pull you54f/pact-standalone-node` [![](https://images.microbadger.com/badges/image/you54f/pact-standalone-node.svg)](https://microbadger.com/images/you54f/pact-standalone-node "Get your own image badge on microbadger.com")
+- `ruby:2.4.6-slim` with Pact Broker running with Puma
+  - `docker pull you54f/pact-broker-puma` [![](https://images.microbadger.com/badges/image/you54f/pact-broker-puma.svg)](https://microbadger.com/images/you54f/pact-broker-puma "Get your own image badge on microbadger.com")
+- `ruby:2.4.6-slim` with Pact Broker running with Puma as a squashed docker image
+  - `docker pull you54f/pact-broker-puma-lite` [![](https://images.microbadger.com/badges/image/you54f/pact-broker-puma-lite.svg)](https://microbadger.com/images/you54f/pact-broker-puma-lite "Get your own image badge on microbadger.com")
 
 Please see the respective directories
 
