@@ -7,7 +7,7 @@
   },
   "author": "Yousaf Nabi",
   "dependencies": {
-    "@pact-foundation/pact": "8.2.0",
+    "@pact-foundation/pact": "8.2.2",
     "body-parser": "1.18.3",
     "dotenv": "7.0.0"
   }
