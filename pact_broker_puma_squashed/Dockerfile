@@ -1,4 +1,4 @@
-FROM ruby:2.6.4-slim
+FROM ruby:2.6.5-slim
 
 # Installation path
 ENV HOME=/pact_broker
